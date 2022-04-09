@@ -18,8 +18,10 @@ $(document).ready(function() {
       result = "Rust";
     } else if (userCardioOrLifting === "Lift") {
       result = "Python";
+    } else {
+      result= "C#";
     }
-
+  
     $("results").text(result);
     $("results-now").show();
 
