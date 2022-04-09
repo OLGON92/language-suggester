@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
   $("form#language-suggester").submit(function(event) {
     event.preventDefault();
     const userFavoriteAnimal=$("#favorite-animal").val();
@@ -19,11 +20,11 @@ $(document).ready(function() {
     } else if (userCardioOrLifting === "Lift") {
       result = "Python";
     } else {
-      result= "C#";
+      result= "Ruby";
     }
   
-    $("results").text(result);
-    $("results-now").show();
+    $("#result").text(result);
+    $("#results-here").show();
 
   });
 });
