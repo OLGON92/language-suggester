@@ -15,7 +15,7 @@
 
       <form id="language-suggester">
         <div class="row">
-          <div class="col-4">
+          <div class="col-2">
             <label for="favorite-animal">What is your favorite animal?</label>
             <select class="form-control" id="favorite-animal" required="required">
               <option>Please select an option</option>
@@ -71,4 +71,31 @@
             </label>
           </div>
         </div>
-        
+        <div class="form-group">
+          <div class="radio">
+          <p>Do you prefer cardio or lifting?</p>
+            <label>
+              <input type="radio" name="cardio-or-lift" value="Cardio" checked>
+              Cardio
+            </label>
+          </div> 
+          <div class="radio">
+            <label>
+              <input type="radio" name="cardio-or-lift" value="Lift">
+              Lifting 
+            </label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-2">
+            <button type="submit" class="btn" id="results-button">Show me my results, please!</button>
+          </div>
+        </div>
+      </form>
+
+    <div id="results-now">
+      <p>After much anticipation, your suggested language is <span id="result"></span>!</p>
+    </div>
+  </div>
+</body>
+</html>
