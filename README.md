@@ -1,4 +1,4 @@
-# _{Oscar's Portfolio}_
+# _Oscar's Portfolio_
 
 #### By _**Oscar Gonzalez**_
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is small quiz-like project I made for my programming class at Epicodus. The purpose of this project is to represent my ability to branch properly. Here is a [link](https://github.com/OLGON92/language-suggester) to the repository on GitHub._
+_This is small quiz-like project I made for my programming class at Epicodus. The purpose of this project is to represent my ability to branch properly. Here is a [link](https://github.com/OLGON92/language-suggester) to the repository on GitHub._
 
 ## Setup/Installation Requirements
 
