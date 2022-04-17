@@ -2,7 +2,7 @@
 
 #### By _**Oscar Gonzalez**_
 
-#### _A portfolio of my current work so far._
+#### _This is a language suggester._
 
 ## Technologies Used
 
