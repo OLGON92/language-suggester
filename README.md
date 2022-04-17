@@ -1,4 +1,4 @@
-# _Oscar's Portfolio_
+# _Oscar's Language Suggester_
 
 #### By _**Oscar Gonzalez**_
 
@@ -15,9 +15,10 @@
 _This is small quiz-like project I made for my programming class at Epicodus. The purpose of this project is to represent my ability to branch properly. Here is a [link](https://github.com/OLGON92/language-suggester) to the repository on GitHub._
 
 ## Setup/Installation Requirements
-
+* This is link for my project on github pages https://olgon92.github.io/language-suggester/
 * _Click link above_
-* _Take the quiz_
+* _It should open in your preferred web browser_
+* _From there take the quiz_
 * _See your results_
 
 ## Known Bugs
